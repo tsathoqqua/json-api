@@ -1,0 +1,4 @@
+{
+    "/applications/:id": "/applications?appId=:id",
+    "/posts":"/660/posts$1"
+}

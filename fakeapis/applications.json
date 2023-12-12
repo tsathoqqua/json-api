@@ -1,0 +1,12 @@
+[
+  {
+    "appId": 1,
+    "name": "Next Insight",
+    "cost": 10
+  },
+  {
+    "name": "Office 365",
+    "cost": 8000,
+    "appId": 3
+  }
+]
