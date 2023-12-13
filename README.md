@@ -43,4 +43,4 @@ json-server-auth --watch ./data/db.js --port 3000 --routes routes.json --host 0.
 ## Resources for reference
 * json-server-auth package: https://www.npmjs.com/package/json-server-auth
 * json-server: https://www.npmjs.com/package/json-server
-* Online openapi.yaml editor for Swagger UI preview: https://editor.swagger.io/ (Copy openapi.yaml in there).
+* Online openapi.yaml editor for Swagger UI preview: https://editor.swagger.io/?url=https://raw.githubusercontent.com/tsathoqqua/json-api/main/openapi.yaml 
