@@ -2,11 +2,13 @@
   {
     "appId": 1,
     "name": "Next Insight",
-    "cost": 10
+    "cost": 10,
+    "secret": 1
   },
   {
     "name": "Office 365",
     "cost": 8000,
-    "appId": 3
+    "appId": 3,
+    "secret": 2
   }
 ]
